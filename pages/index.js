@@ -1,5 +1,5 @@
 function home() {
-  return <h1>Ana Laura, eu te amo com todo meu coração ❤ </h1>;
+  return <h1>Em construção 🚧 </h1>;
 }
 
 export default home;
